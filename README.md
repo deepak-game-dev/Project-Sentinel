@@ -6,7 +6,7 @@ A stealth and extraction gameplay prototype built in Unreal Engine with C++. The
 
 ▶️ [Watch Project Sentinel — Unreal Engine C++ Gameplay Programming Demo](https://youtu.be/b2oFv5Xs6tY)
 
-Demo video: https://youtu.be/b2oFv5Xs6tY
+
 
 ## Screenshots
 
