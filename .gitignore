@@ -1,0 +1,22 @@
+# Unreal Engine - generated folders
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Visual Studio
+.vs/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+*.vsconfig
+
+# Other generated files
+*.xcodeproj
+*.xcworkspace
+.vscode/
+*.log
