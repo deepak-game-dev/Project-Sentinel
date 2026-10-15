@@ -2,9 +2,9 @@
 
 A stealth and extraction gameplay prototype built in Unreal Engine with C++. The player must retrieve a data drive from guarded ground and reach the extraction zone without being killed by the patrolling guards.
 
-## Demo
+## Demo Video
 
-[![Watch the demo video](screenshots/demo-thumbnail.png)](https://youtu.be/b2oFv5Xs6tY)
+▶️ [Watch Project Sentinel — Unreal Engine C++ Gameplay Programming Demo](https://youtu.be/b2oFv5Xs6tY)
 
 Demo video: https://youtu.be/b2oFv5Xs6tY
 
